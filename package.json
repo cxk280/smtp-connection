@@ -1,6 +1,6 @@
 {
   "name": "@cxk280/smtp-connection-2",
-  "version": "2.11.1",
+  "version": "2.11.2",
   "description": "Connect to SMTP servers",
   "main": "lib/smtp-connection.js",
   "directories": {
